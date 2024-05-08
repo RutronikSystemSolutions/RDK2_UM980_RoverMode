@@ -14,10 +14,14 @@ This example demonstrates how to use the RDK2 in combination with the RAB-RTK to
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.x
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.1**]
 - [RDK2](https://www.rutronik24.com/product/rutronik/rutdevkit-psoc62/16440182.html)
 - [RAB-RTK](https://www.rutronik.com/innovations)
 - GPS Antenna
+
+## Supported toolchains (make variable 'TOOLCHAIN')
+
+- GNU Arm&reg; Embedded Compiler v11.3.1 (`GCC_ARM`) - Default value of `TOOLCHAIN`
 
 ## Using the code example
 
